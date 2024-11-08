@@ -1,6 +1,6 @@
-# app-dev.
+# My Favorite Movie:
 
-# Movie: *Pride & Prejudice* (2005)
+# *Pride & Prejudice* (2005)
 
 ## Overview
 
