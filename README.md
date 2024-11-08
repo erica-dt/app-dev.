@@ -1,5 +1,4 @@
 # app-dev.
-My first repository
 
 # Movie: *Pride & Prejudice* (2005)
 
