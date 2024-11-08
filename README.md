@@ -14,6 +14,7 @@ My first repository
 
 ## My favorite quotes
 > “You have bewitched me, body and soul, and I love, I love, I love you.” – **Mr. Darcy**
+
 > “I could no more forget you than I could forget my own name.” – **Elizabeth Bennet**
   
 | Award | Nomination |
